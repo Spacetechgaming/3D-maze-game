@@ -10,3 +10,5 @@ the game is free
 
 you can download the at github
 
+play the 3D Maze game(1)
+
